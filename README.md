@@ -1,9 +1,14 @@
 Aplikacja stworzona dla wypożyczalni rowerów z użyciem technologii Django Rest Framework.
+
 API: Django Rest Framework
+
 GUI: Tkinter
 
 
+
+
 Funkcjonalności: 
+
 1. Dodanie użytkownika
 2. Dodanie roweru
 3. Wyświetlenie użytkowników
@@ -16,5 +21,7 @@ Funkcjonalności:
 
 
 Migracje zostały zainicjowane.
+
 Superuser login: admin
+
 Superuser passwor: admin
